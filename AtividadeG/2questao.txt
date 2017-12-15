@@ -1,0 +1,1 @@
+(Questão 2) A "ClasseConcreta" por herdar de "ClasseAbstrata" deve ser implementada de acordo com a herança, nesse caso implementar o metodo imprimirAlgo.

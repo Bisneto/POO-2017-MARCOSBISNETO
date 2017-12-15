@@ -1,0 +1,2 @@
+(Questao 1) 
+Não podem ser instanciadas, apenas como referencias, porque as classes consideradas abstratas servem apenas de modelos para outras classes.

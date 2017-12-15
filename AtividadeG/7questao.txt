@@ -1,0 +1,3 @@
+(Questão 7) Porque ao realizar o "new" em FiguraGeometria criamos um local na memoria que pode vai ser ocupado por um objeto sera do tipo Figurageometrica de acordo com a classe.
+Então todas as classes que herdam de FiguramGeometricas são do seu tipo que podem ser guardado no new que está sendo feito.
+espaço reservado para tal.

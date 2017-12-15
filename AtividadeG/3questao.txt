@@ -1,0 +1,2 @@
+(3º questão ) Se uma classe que herda de uma abstrada e não implementa os seus metodos o que ocorre?
+R= Ela não funcionará(compilar) por que não ter implementado seus metodos de acordo com a classe herdada.  
