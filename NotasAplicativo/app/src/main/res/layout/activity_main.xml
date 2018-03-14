@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.bisneto.notasaplicativo.MainActivity">
+
+    <TextView
+        android:textAlignment="center"
+        android:textSize="25dp"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:hint="Seja Bem Vindo "
+        android:layout_gravity="center_horizontal" />
+
+    <EditText
+        android:id="@+id/txt_nome"
+        android:layout_marginTop="40dp"
+        android:inputType="number"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:hint="Nome"/>
+
+    <Button
+        android:id="@+id/btn_salvar"
+        android:hint="Salvar"
+        android:onClick="Salvar"
+        android:background="@color/colorPrimary"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"/>
+
+</LinearLayout>
